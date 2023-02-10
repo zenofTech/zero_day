@@ -1,1 +1,1 @@
-# This dir is for the vagrant task, running vm in local machines is cool! 
+# This repo is for vagrant project, Using a VM is so cool 
